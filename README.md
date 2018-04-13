@@ -1,3 +1,5 @@
+### NOTE: The project now lives at at https://github.com/PureFnOrg/sqlium
+
 # sqlium
 
 A Datomic-inspired Clojure library for entity extraction (Big E in ETL) from a
